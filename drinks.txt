@@ -2,3 +2,6 @@ orange juice
 tea
 coke
 vodka
+cappuccinos
+coffee
+green tea
